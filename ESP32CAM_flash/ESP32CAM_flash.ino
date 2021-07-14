@@ -24,3 +24,5 @@ void loop() //Función bucle
   digitalWrite (FLASH, LOW); //Apagar led
   delay (2000); //Espera de 2 segundos
 } //Fin de void loop()
+
+// Este es un cambio simple al código ya escrito
